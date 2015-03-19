@@ -1,0 +1,15 @@
+{
+  "name": "feedstream",
+  "version": "0.1.0",
+  "description": "An event dispatcher feed reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matita <matitald@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^1.0.0",
+    "request": "^2.53.0"
+  }
+}
